@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "585598413817",
+    "firebase_url": "https://automatedpoultry-befbc.firebaseio.com",
+    "project_id": "automatedpoultry-befbc",
+    "storage_bucket": "automatedpoultry-befbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585598413817:android:f6fcb245f5fca8f1b6eb28",
+        "android_client_info": {
+          "package_name": "com.example.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585598413817-c5l8qib7cua050l36ai9b04dl9o8npan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sample",
+            "certificate_hash": "cd151bd06bc6882b6d40d54388ae8c7a1c2bcbc2"
+          }
+        },
+        {
+          "client_id": "585598413817-gpkob9u6i74p08manba3st4avkeotode.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtr5P4C-IZ6dWBFP0E3Z6h5RFGplgYaqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585598413817-gpkob9u6i74p08manba3st4avkeotode.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
